@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListView Reload Application</string>
+    <string name="btn_refresh">刷新</string>
+</resources>
